@@ -1,7 +1,7 @@
 {
-  "name": "cofinder",
+  "name": "node-playground",
   "version": "1.0.0",
-  "description": "``` docker build -t steverecio/cofinder . docker run -p 8080:8080 -d steverecio/cofinder ```",
+  "description": "Isolated node interpreter with dependencies",
   "main": "index.js",
   "dependencies": {
     "express": "^4.16.3",
